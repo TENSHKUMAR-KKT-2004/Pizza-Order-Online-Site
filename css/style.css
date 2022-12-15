@@ -186,7 +186,8 @@ em p {
 
 .viwe-all {
   position: relative;
-  top: 100px;
+  top: 110px;
+  margin-top:100px;
 }
 
 /* Vegetables image */
